@@ -170,7 +170,7 @@ fps_start_time = time.time()
 
 print("\nStarting hand gesture control...")
 print("IMPORTANT SETUP STEPS:")
-print("1. Open Chrome and go to Subway Surfers")
+print("1. Open Chrome and go to Subway Surfers OR Temple Run")
 print("2. Position the game window on the right side")
 print("3. Click on the game window once to focus it")
 print("\nGesture Controls:")
