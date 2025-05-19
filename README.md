@@ -1,7 +1,6 @@
 # GestureRecognition-We Can Use Subway Surfers OR Temple Run
 
-
-🚀 Just tried out MediaPipe with Python
+MediaPipe with Python
 This video presents a hands on demo of real-time hand tracking and landmark detection. 💵🖐
 
 MediaPipe (google developed) is a versatile framework that runs quickly and works well for Computer Vision on Real-world problems.
